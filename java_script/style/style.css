@@ -1,0 +1,46 @@
+
+.st1{
+color: red;
+font-size: 150%;
+text-align: center;
+}
+.st2{
+color: white;
+text-align: center;
+}
+.st3{
+font-size: 200%;
+text-align: center;
+color: blue
+}
+.st4{
+    text-align: center;
+}
+.st5{
+font-size: 150%;
+-webkit-text-stroke: 0.15px white;
+}
+.st6{
+    color: white;
+    text-decoration: none;
+}
+.st7{
+    color: blue;
+    text-decoration: none;
+    font-size: 150%;
+}
+.st8{
+    color: red;
+    text-decoration: none;
+    font-size: 150%;
+}
+.st9{
+    color: rgb(187, 41, 41);
+    text-decoration: none;
+    font-size: 150%;
+}
+.st10{
+container: 150%;
+background-color: rgb(176, 128, 61);
+
+}
